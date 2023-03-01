@@ -16,8 +16,8 @@
 # the branches we will be dealing with
 FOX_BRANCH="fox_12.1"; # default is fox_12.1 (fox_9.0, fox_10.0, fox_11.0, fox_12.1 ?)
 TWRP_BRANCH="twrp-12.1"; # default is twrp-12.1 (twrp-9.0, twrp-10.0, twrp-11.0, twrp-12.1 ?)
-DEVICE_BRANCH="android-12.1"; # device tree branch, default is fox_12.1
-DEVICE_TREE_URL="https://github.com/zeelog/device_mido_twrp.git"; # device tree url, default is for miatoll
+DEVICE_BRANCH="ofox_12.1-retrofit"; # device tree branch, default is fox_12.1
+DEVICE_TREE_URL="https://github.com/NRanjan-17/device_mido_twrp.git"; # device tree url, default is for miatoll
 LOCAL_DEVICE_TREE_URL="git@github.com:zeelog/device_mido_twrp.git"; # local device tree url, default is for miatoll
 FOX_VENDOR_BRANCH="fox_12.1"; # default is fox_12.1 (master, fox_10.0, fox_11.0, fox_12.1 ?)
 # extras
